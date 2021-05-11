@@ -1,0 +1,92 @@
+[
+      {
+            "question" : "What is the most famous formatter for javascript?",
+            "option__1" : "jslint",
+            "option__2" : "prettier", 
+            "option__3" : "eslint", 
+            "option__4" : "beautify", 
+            "option__5" : "tslint",
+            "answer" : "eslint"
+      },
+      {
+            "question" : "What does HTML stand for?",
+            "option__1" : "Hypertext Markup Link", 
+            "option__2" : "Hypertext Preprocessor", 
+            "option__3" : "Hypertext Markup Language", 
+            "option__4" : "Hypertext Transfer Protocol",
+            "option__5" : "Hypertext Transfer Protocol Secure",
+            "answer" : "Hypertext Markup Language"
+      },
+      {
+            "question" : "how we specify document type of html5 page?",
+            "option__1" : "&lt;!DOCTYPE html&gt;",
+            "option__2" : "&lt;DOCTYPE html&gt;", 
+            "option__3" : "&lt;DOCTYPE html5&gt;", 
+            "option__4" : "&lt;!DOCTYPE html5&gt;",
+            "option__5" : "&lt;DOCTYPE html3&gt;",
+            "answer" : "&lt;!DOCTYPE html&gt;"
+      },
+      {
+            "question" : "What does CSS stand for?",
+            "option__1" : "Computer Style Sheets",
+            "option__2" : "Creative Style Sheets", 
+            "option__3" : "Caricature Style Sheets", 
+            "option__4" : "Cascading Style Sheets;",
+            "option__5" : "Community Style Sheets;",
+            "answer" : "Cascading Style Sheets;"
+      },
+      {
+            "question" : "Where is the better place to refer to js file?",
+            "option__1" : "Before &lt;/body&gt; closing tag",
+            "option__2" : "At the beginning of the document",
+            "option__3" : "In the &lt;head&gt; section",
+            "option__4" : "After &lt;/body&gt; tag",
+            "option__5" : "At the end of the document",
+            "answer" : "Before &lt;/body&gt; closing tag"
+      },
+      {
+            "question" : "Which is the correct syntax to add attributes?",
+            "option__1" : "&lt;div class='class-name'&gt;",
+            "option__2" : "&lt;div class=class-name&gt;", 
+            "option__3" : "&lt;div class:'class-name'&gt;", 
+            "option__4" : "&lt;div class:class-name&gt;",
+            "option__5" : "&lt;div class:{class-name}&gt;",
+            "answer" : "&lt;div class='class-name'&gt;"
+      },
+      {
+            "question" : "What is the correct HTML element tag for javascript?",
+            "option__1" : "&lt;javascript&gt;",
+            "option__2" : "&lt;ecmascript&gt;", 
+            "option__3" : "&lt;js&gt;", 
+            "option__4" : "&lt;java&gt;",
+            "option__5" : "&lt;script&gt;",
+            "answer" : "&lt;script&gt;"
+      },
+      {
+            "question" : "Where is the correct place to refer to style sheet?",
+            "option__1" : "In the &lt;body&gt; section",
+            "option__2" : "In the &lt;main&gt; section", 
+            "option__3" : "In the &lt;head&gt; section", 
+            "option__4" : "In the &lt;article&gt; section",
+            "option__5" : "In the &lt;aside&gt; section",
+            "answer" : "In the &lt;head&gt; section"
+      },
+      {
+            "question" : "Which of this elements have not closing tag?",
+            "option__1" : "header",
+            "option__2" : "meta",
+            "option__3" : "div",
+            "option__4" : "section",
+            "option__5" : "footer",
+            "answer" : "meta"
+      },
+      {
+            "question" : "Why we use &lt;i&gt; element?",
+            "option__1" : "To make text bold",
+            "option__2" : "To make text small",
+            "option__3" : "To make text large",
+            "option__4" : "To make text transparent",
+            "option__5" : "To make text italic",
+            "answer" : "To make text italic"
+      }
+]
