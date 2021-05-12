@@ -75,7 +75,7 @@ let rightAnswers = 0;
             }
       }
 
-      xhr.open("GET", "http://myjson.dit.upm.es/api/bins/djx", true);
+      xhr.open("GET", "root/json/quiz.json", true);
       xhr.send();
 }();
 
