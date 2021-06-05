@@ -143,11 +143,11 @@ function showResults(count) {
             resultsArea.style.display = "block";
 
             if (rightAnswers > (count / 2)) {
-                  result = `<span class='txt good'>good</span>, you made ${rightAnswers} right answer form ${count}`;
+                  result = `<span class='txt good'>good</span>, you made ${rightAnswers} right answer from ${count}`;
             } else if (rightAnswers == (count / 2)) {
-                  result = `<span class='txt medium'>not enough</span>, you made ${rightAnswers} right answer form ${count}`;
+                  result = `<span class='txt medium'>not enough</span>, you made ${rightAnswers} right answer from ${count}`;
             } else {
-                  result = `<span class='txt bad'>bad</span>, you made just ${rightAnswers} right answer form ${count}`;
+                  result = `<span class='txt bad'>bad</span>, you made just ${rightAnswers} right answer from ${count}`;
             }
             resultsArea.insertAdjacentHTML(pos, result);
 
